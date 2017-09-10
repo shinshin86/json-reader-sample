@@ -1,0 +1,31 @@
+#files {
+  display: none;
+}
+.input-area {
+  display: inline-flex;
+}
+.content-area {
+  padding: 20px;
+}
+.bd-callout {
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #eee;
+  border-left-width: .25rem;
+  border-radius; .25rem;
+}
+.bd-callout-info {
+  border-left-color: #5bc0ee;
+}
+
+.display-text {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.1;
+}
+
+.err-msg {
+  padding: 10px;
+  color: red;
+}
